@@ -99,4 +99,4 @@ EOF  help  quit
 (hbnb)
 $
 # AUTHORS
-Wakilat Adeola Olanrewaju & Tolulope Benjamin Alegbeleye
+Tife Ekundayo & Abdullateef Tajudeen
